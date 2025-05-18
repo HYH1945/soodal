@@ -1,4 +1,4 @@
-var cacheName = 'test';
+var cacheName = '수달';
 
 /* Start the service worker and cache all of the app's content or use the existing one */
 self.addEventListener('install', function (e) {
